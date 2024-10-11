@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,6 +25,10 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
@@ -32,14 +36,10 @@
               "RelativeDocumentMoniker": "DivideYVenceras\\Program.cs",
               "ToolTip": "C:\\Users\\Home\\OneDrive\\Escritorio\\Investigaci\u00F3n-MyPE\\DivideYVenceras\\DivideYVenceras\\Program.cs",
               "RelativeToolTip": "DivideYVenceras\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBwAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAABgmpmZmVkqwA4AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T02:10:58.463Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             }
           ]
         }

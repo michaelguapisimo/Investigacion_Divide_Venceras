@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carlo\\OneDrive\\Music\\investigacion\\MergeSort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CEE518-88CA-4D02-978C-65B94F378CC6}|MergeSort\\MergeSort.csproj|c:\\users\\carlo\\onedrive\\music\\investigacion\\mergesort\\mergesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CEE518-88CA-4D02-978C-65B94F378CC6}|MergeSort\\MergeSort.csproj|solutionrelative:mergesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CEE518-88CA-4D02-978C-65B94F378CC6}|MergeSort\\MergeSort.csproj|c:\\users\\carlo\\onedrive\\music\\investigacion\\mergesort\\mergesort\\mergesort\\merge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CEE518-88CA-4D02-978C-65B94F378CC6}|MergeSort\\MergeSort.csproj|solutionrelative:mergesort\\mergesort\\merge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Merge.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Music\\investigacion\\MergeSort\\MergeSort\\mergesort\\Merge.cs",
+              "RelativeDocumentMoniker": "MergeSort\\mergesort\\Merge.cs",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Music\\investigacion\\MergeSort\\MergeSort\\mergesort\\Merge.cs",
+              "RelativeToolTip": "MergeSort\\mergesort\\Merge.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T01:45:41.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Music\\investigacion\\MergeSort\\MergeSort\\Program.cs",
+              "RelativeDocumentMoniker": "MergeSort\\Program.cs",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Music\\investigacion\\MergeSort\\MergeSort\\Program.cs",
+              "RelativeToolTip": "MergeSort\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T01:43:34.958Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
