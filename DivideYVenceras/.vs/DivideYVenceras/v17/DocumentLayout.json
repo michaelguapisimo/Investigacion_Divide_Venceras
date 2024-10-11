@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Home\\OneDrive\\Escritorio\\Investigaci\u00F3n-MyPE\\DivideYVenceras\\",
+  "WorkspaceRootPath": "C:\\Users\\andrea\\Documents\\divide_venceras\\DivideYVenceras\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3FB91DF-2A98-4959-937F-687FA7B60BFC}|DivideYVenceras\\QuickSort.csproj|c:\\users\\home\\onedrive\\escritorio\\investigaci\u00F3n-mype\\divideyvenceras\\divideyvenceras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{044EF442-7A45-483F-8275-10DC6749696C}|BinarySearch\\BinarySearch.csproj|c:\\users\\andrea\\documents\\divide_venceras\\divideyvenceras\\binarysearch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{044EF442-7A45-483F-8275-10DC6749696C}|BinarySearch\\BinarySearch.csproj|solutionrelative:binarysearch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB91DF-2A98-4959-937F-687FA7B60BFC}|DivideYVenceras\\QuickSort.csproj|c:\\users\\andrea\\documents\\divide_venceras\\divideyvenceras\\divideyvenceras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3FB91DF-2A98-4959-937F-687FA7B60BFC}|DivideYVenceras\\QuickSort.csproj|solutionrelative:divideyvenceras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,7 +22,7 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Bookmark",
@@ -26,20 +30,31 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Home\\OneDrive\\Escritorio\\Investigaci\u00F3n-MyPE\\DivideYVenceras\\DivideYVenceras\\Program.cs",
-              "RelativeDocumentMoniker": "DivideYVenceras\\Program.cs",
-              "ToolTip": "C:\\Users\\Home\\OneDrive\\Escritorio\\Investigaci\u00F3n-MyPE\\DivideYVenceras\\DivideYVenceras\\Program.cs",
-              "RelativeToolTip": "DivideYVenceras\\Program.cs",
-              "ViewState": "AgIAAAgAAABgmpmZmVkqwA4AAAAeAAAAAAAAAA==",
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\andrea\\Documents\\divide_venceras\\DivideYVenceras\\BinarySearch\\Form1.cs",
+              "RelativeDocumentMoniker": "BinarySearch\\Form1.cs",
+              "ToolTip": "C:\\Users\\andrea\\Documents\\divide_venceras\\DivideYVenceras\\BinarySearch\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "BinarySearch\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T02:10:58.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T03:35:13.229Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andrea\\Documents\\divide_venceras\\DivideYVenceras\\DivideYVenceras\\Program.cs",
+              "RelativeDocumentMoniker": "DivideYVenceras\\Program.cs",
+              "ToolTip": "C:\\Users\\andrea\\Documents\\divide_venceras\\DivideYVenceras\\DivideYVenceras\\Program.cs",
+              "RelativeToolTip": "DivideYVenceras\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T02:10:58.463Z"
             }
           ]
         }

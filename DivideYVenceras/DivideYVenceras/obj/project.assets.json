@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Home\\.nuget\\packages\\": {}
+    "C:\\Users\\andrea\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Home\\OneDrive\\Escritorio\\Investigación-MyPE\\DivideYVenceras\\DivideYVenceras\\QuickSort.csproj",
+      "projectUniqueName": "C:\\Users\\andrea\\Documents\\divide_venceras\\DivideYVenceras\\DivideYVenceras\\QuickSort.csproj",
       "projectName": "QuickSort",
-      "projectPath": "C:\\Users\\Home\\OneDrive\\Escritorio\\Investigación-MyPE\\DivideYVenceras\\DivideYVenceras\\QuickSort.csproj",
-      "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Home\\OneDrive\\Escritorio\\Investigación-MyPE\\DivideYVenceras\\DivideYVenceras\\obj\\",
+      "projectPath": "C:\\Users\\andrea\\Documents\\divide_venceras\\DivideYVenceras\\DivideYVenceras\\QuickSort.csproj",
+      "packagesPath": "C:\\Users\\andrea\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\andrea\\Documents\\divide_venceras\\DivideYVenceras\\DivideYVenceras\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\andrea\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
