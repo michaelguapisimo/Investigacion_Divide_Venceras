@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Home\\OneDrive\\Escritorio\\Investigaci\u00F3n-MyPE\\DivideYVenceras\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3FB91DF-2A98-4959-937F-687FA7B60BFC}|DivideYVenceras\\DivideYVenceras.csproj|c:\\users\\home\\onedrive\\escritorio\\investigaci\u00F3n-mype\\divideyvenceras\\divideyvenceras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3FB91DF-2A98-4959-937F-687FA7B60BFC}|DivideYVenceras\\DivideYVenceras.csproj|solutionrelative:divideyvenceras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3FB91DF-2A98-4959-937F-687FA7B60BFC}|DivideYVenceras\\QuickSort.csproj|c:\\users\\home\\onedrive\\escritorio\\investigaci\u00F3n-mype\\divideyvenceras\\divideyvenceras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FB91DF-2A98-4959-937F-687FA7B60BFC}|DivideYVenceras\\QuickSort.csproj|solutionrelative:divideyvenceras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,9 +32,9 @@
               "RelativeDocumentMoniker": "DivideYVenceras\\Program.cs",
               "ToolTip": "C:\\Users\\Home\\OneDrive\\Escritorio\\Investigaci\u00F3n-MyPE\\DivideYVenceras\\DivideYVenceras\\Program.cs",
               "RelativeToolTip": "DivideYVenceras\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T01:45:53.249Z",
+              "WhenOpened": "2024-10-11T02:10:58.463Z",
               "EditorCaption": ""
             },
             {
