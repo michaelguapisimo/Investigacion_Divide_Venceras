@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Home\\OneDrive\\Escritorio\\MergeSort\\",
+  "WorkspaceRootPath": "C:\\Users\\Home\\OneDrive\\Escritorio\\Investigaci\u00F3n-MyPE\\MergeSort\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0CEE518-88CA-4D02-978C-65B94F378CC6}|MergeSort\\MergeSort.csproj|c:\\users\\home\\onedrive\\escritorio\\mergesort\\mergesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0CEE518-88CA-4D02-978C-65B94F378CC6}|MergeSort\\MergeSort.csproj|c:\\users\\home\\onedrive\\escritorio\\investigaci\u00F3n-mype\\mergesort\\mergesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0CEE518-88CA-4D02-978C-65B94F378CC6}|MergeSort\\MergeSort.csproj|solutionrelative:mergesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0CEE518-88CA-4D02-978C-65B94F378CC6}|MergeSort\\MergeSort.csproj|C:\\Users\\Home\\OneDrive\\Escritorio\\MergeSort\\mergesort\\mergesort\\merge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0CEE518-88CA-4D02-978C-65B94F378CC6}|MergeSort\\MergeSort.csproj|C:\\Users\\Home\\OneDrive\\Escritorio\\Investigaci\u00F3n-MyPE\\MergeSort\\mergesort\\mergesort\\merge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0CEE518-88CA-4D02-978C-65B94F378CC6}|MergeSort\\MergeSort.csproj|solutionrelative:mergesort\\mergesort\\merge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Merge.cs",
-              "DocumentMoniker": "C:\\Users\\Home\\OneDrive\\Escritorio\\MergeSort\\MergeSort\\mergesort\\Merge.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\OneDrive\\Escritorio\\Investigaci\u00F3n-MyPE\\MergeSort\\MergeSort\\mergesort\\Merge.cs",
               "RelativeDocumentMoniker": "MergeSort\\mergesort\\Merge.cs",
-              "ToolTip": "C:\\Users\\Home\\OneDrive\\Escritorio\\MergeSort\\MergeSort\\mergesort\\Merge.cs",
+              "ToolTip": "C:\\Users\\Home\\OneDrive\\Escritorio\\Investigaci\u00F3n-MyPE\\MergeSort\\MergeSort\\mergesort\\Merge.cs",
               "RelativeToolTip": "MergeSort\\mergesort\\Merge.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwBsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -48,11 +48,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Home\\OneDrive\\Escritorio\\MergeSort\\MergeSort\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\OneDrive\\Escritorio\\Investigaci\u00F3n-MyPE\\MergeSort\\MergeSort\\Program.cs",
               "RelativeDocumentMoniker": "MergeSort\\Program.cs",
-              "ToolTip": "C:\\Users\\Home\\OneDrive\\Escritorio\\MergeSort\\MergeSort\\Program.cs",
+              "ToolTip": "C:\\Users\\Home\\OneDrive\\Escritorio\\Investigaci\u00F3n-MyPE\\MergeSort\\MergeSort\\Program.cs",
               "RelativeToolTip": "MergeSort\\Program.cs",
-              "ViewState": "AgIAAAkAAABgZmZmZmY0wBwAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T01:43:34.958Z",
               "EditorCaption": ""

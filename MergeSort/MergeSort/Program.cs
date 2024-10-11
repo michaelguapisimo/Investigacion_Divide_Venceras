@@ -11,6 +11,7 @@ namespace MergeSort
     {
         static void Main(string[] args)
         {
+            //
             Merge merge = new Merge();
             int[] array = new int[6];
             for (int i = 0; i < 6; i++)
