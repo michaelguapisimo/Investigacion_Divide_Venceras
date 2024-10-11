@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,6 +27,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\OneDrive\\Escritorio\\Investigaci\u00F3n-MyPE\\MergeSort\\MergeSort\\Program.cs",
+              "RelativeDocumentMoniker": "MergeSort\\Program.cs",
+              "ToolTip": "C:\\Users\\Home\\OneDrive\\Escritorio\\Investigaci\u00F3n-MyPE\\MergeSort\\MergeSort\\Program.cs",
+              "RelativeToolTip": "MergeSort\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T01:43:34.958Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -43,19 +56,6 @@
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwBsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T01:45:41.668Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Home\\OneDrive\\Escritorio\\Investigaci\u00F3n-MyPE\\MergeSort\\MergeSort\\Program.cs",
-              "RelativeDocumentMoniker": "MergeSort\\Program.cs",
-              "ToolTip": "C:\\Users\\Home\\OneDrive\\Escritorio\\Investigaci\u00F3n-MyPE\\MergeSort\\MergeSort\\Program.cs",
-              "RelativeToolTip": "MergeSort\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T01:43:34.958Z",
-              "EditorCaption": ""
             }
           ]
         }
