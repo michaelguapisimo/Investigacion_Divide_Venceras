@@ -1,0 +1,10 @@
+C:\Users\andrea\Documents\divide_venceras\DivideYVenceras\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\Users\andrea\Documents\divide_venceras\DivideYVenceras\BinarySearch\bin\Debug\BinarySearch.exe
+C:\Users\andrea\Documents\divide_venceras\DivideYVenceras\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Users\andrea\Documents\divide_venceras\DivideYVenceras\BinarySearch\obj\Debug\BinarySearch.csproj.AssemblyReference.cache
+C:\Users\andrea\Documents\divide_venceras\DivideYVenceras\BinarySearch\obj\Debug\BinarySearch.Form1.resources
+C:\Users\andrea\Documents\divide_venceras\DivideYVenceras\BinarySearch\obj\Debug\BinarySearch.Properties.Resources.resources
+C:\Users\andrea\Documents\divide_venceras\DivideYVenceras\BinarySearch\obj\Debug\BinarySearch.csproj.GenerateResource.cache
+C:\Users\andrea\Documents\divide_venceras\DivideYVenceras\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\andrea\Documents\divide_venceras\DivideYVenceras\BinarySearch\obj\Debug\BinarySearch.exe
+C:\Users\andrea\Documents\divide_venceras\DivideYVenceras\BinarySearch\obj\Debug\BinarySearch.pdb
